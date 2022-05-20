@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Buat akun untuk melihat foto dan video _2c3534</name>
+   <tag></tag>
+   <elementGuidId>4d0a15ae-89d8-45a6-a646-8cfa72c5e373</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-root']/section/main/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b8f92dea-1395-4e8c-9073-9f703cd131ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>             qF0y9          Igw0E   rBNOH          YBx95   ybXk5    vwCYk              MGky5                                                              i0EQd                                   </value>
+      <webElementGuid>1856205c-dd0e-4e5b-9400-37adb17d044f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buat akun untuk melihat foto dan video dari teman Anda.Masuk dengan FacebookatauNomor Ponsel atau EmailNama LengkapNama penggunaMuat ulang saranKata SandiDaftarDengan mendaftar, Anda menyetujui Ketentuan, Kebijakan Data, dan Kebijakan Cookie kami.Punya akun? MasukDapatkan Aplikasi</value>
+      <webElementGuid>4196b541-b0a6-4ab7-8f02-285db6745d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-root&quot;)/section[@class=&quot;_9eogI E3X2T&quot;]/main[@class=&quot;wG4fl  UDpcu&quot;]/div[@class=&quot;qF0y9          Igw0E   rBNOH          YBx95   ybXk5    vwCYk              MGky5                                                              i0EQd&quot;]</value>
+      <webElementGuid>bd5fe791-e440-4011-b386-ff07811ab1be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-root']/section/main/div</value>
+      <webElementGuid>562da128-5f20-4b47-b0e5-d13ac28b841a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div</value>
+      <webElementGuid>23801bf7-f243-4b60-92fd-f67859878b6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Buat akun untuk melihat foto dan video dari teman Anda.Masuk dengan FacebookatauNomor Ponsel atau EmailNama LengkapNama penggunaMuat ulang saranKata SandiDaftarDengan mendaftar, Anda menyetujui Ketentuan, Kebijakan Data, dan Kebijakan Cookie kami.Punya akun? MasukDapatkan Aplikasi' or . = 'Buat akun untuk melihat foto dan video dari teman Anda.Masuk dengan FacebookatauNomor Ponsel atau EmailNama LengkapNama penggunaMuat ulang saranKata SandiDaftarDengan mendaftar, Anda menyetujui Ketentuan, Kebijakan Data, dan Kebijakan Cookie kami.Punya akun? MasukDapatkan Aplikasi')]</value>
+      <webElementGuid>c178a67d-9ac0-476e-9f49-f6466ee1e948</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

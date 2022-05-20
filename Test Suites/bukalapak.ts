@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>bukalapak</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>f7190876-1e93-477f-8ae6-b07b3200c1dd</testSuiteGuid>
+   <testCaseLink>
+      <guid>73ff3605-9cea-448f-867f-bd9890060c7f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tugas/Register Bukalapak</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>13f0b3a9-b8cb-477e-9555-d80bccba1736</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Bukalapak</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a1797f33-062c-4d49-b328-3a1a619b571d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>13f0b3a9-b8cb-477e-9555-d80bccba1736</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>7c56f998-8a2d-4407-a62f-ce9be3e72f8d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

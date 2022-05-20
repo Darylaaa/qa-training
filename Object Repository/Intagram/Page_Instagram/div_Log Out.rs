@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log Out</name>
+   <tag></tag>
+   <elementGuidId>a11d1d93-b950-4b10-8173-f3d97a0f13dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='f21324e1955b1e4']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4a3e4f60-ade9-4328-a29e-12cb38019e4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_7UhW9   xLCgt      MMzan   KV-D4               fDxYl     </value>
+      <webElementGuid>9c7ed4f5-524c-4011-9112-eca652438392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log Out</value>
+      <webElementGuid>5100e50b-0660-49d7-90f1-c75c17d06ded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f21324e1955b1e4&quot;)/div[@class=&quot;_7UhW9   xLCgt      MMzan   KV-D4               fDxYl&quot;]/div[@class=&quot;qF0y9          Igw0E     IwRSH        YBx95     acqo5   _4EzTm&quot;]/div[@class=&quot;_7UhW9   xLCgt      MMzan   KV-D4               fDxYl&quot;]</value>
+      <webElementGuid>b9ebc68b-497e-4e5a-8319-53f9d12f842d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='f21324e1955b1e4']/div/div/div</value>
+      <webElementGuid>c7411844-dd37-4e00-923d-01601cc2600b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Switch Accounts'])[1]/following::div[7]</value>
+      <webElementGuid>10078c85-77bc-4f33-9127-e6c8deb55bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::div[15]</value>
+      <webElementGuid>878b8613-9c9e-41cb-83af-04a6104926fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log Out']/parent::*</value>
+      <webElementGuid>6b27cc4c-486e-4de7-89ef-999579dcb043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>0c93ce91-b471-48b1-ab20-7f32ce70c610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Log Out' or . = 'Log Out')]</value>
+      <webElementGuid>f642742c-3553-462f-bc00-2774607e691b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

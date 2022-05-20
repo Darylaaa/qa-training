@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_123456789101112131415161718192021222_566da4</name>
+   <tag></tag>
+   <elementGuidId>a19ea5e2-cdd5-42d4-8036-cd98325c5efb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-root']/section/main/div/div/div/div/div[4]/div/div/span/span[2]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>98fb4e42-37e0-40af-9399-11944556b223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h144Z  </value>
+      <webElementGuid>61c3517a-7a01-44b4-8b7e-410d233745f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Hari:</value>
+      <webElementGuid>f792545f-8609-4e2f-87f5-d75de9ec58eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>12345678910111213141516171819202122232425262728293031</value>
+      <webElementGuid>f7bfd463-5700-4a79-9740-e170ed97f61a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-root&quot;)/section[@class=&quot;_9eogI E3X2T&quot;]/main[@class=&quot;wG4fl  UDpcu&quot;]/div[@class=&quot;qF0y9          Igw0E   rBNOH          YBx95   ybXk5    vwCYk              MGky5                                                              i0EQd&quot;]/div[@class=&quot;rgFsT&quot;]/div[@class=&quot;gr27e&quot;]/div[@class=&quot;qF0y9          Igw0E   rBNOH        eGOV_       acqo5   _4EzTm                                                                                      yV-Ex       HVWg4&quot;]/div[@class=&quot;qF0y9          Igw0E     IwRSH      eGOV_       acqo5   _4EzTm    bkEs3                                                      DhRcB&quot;]/div[1]/div[@class=&quot;qF0y9          Igw0E   rBNOH        eGOV_       acqo5   _4EzTm&quot;]/span[1]/span[@class=&quot;O15Fw&quot;]/select[@class=&quot;h144Z&quot;]</value>
+      <webElementGuid>384a1a30-f238-4de1-96cf-375bb793b0b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-root']/section/main/div/div/div/div/div[4]/div/div/span/span[2]/select</value>
+      <webElementGuid>7417788e-0588-4a12-b9d9-4badac9b4f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengapa saya harus memberikan tanggal lahir?'])[1]/following::select[2]</value>
+      <webElementGuid>e63af896-f470-4f35-875b-da8a68e148ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ini tidak akan menjadi bagian profil publik Anda.'])[1]/following::select[2]</value>
+      <webElementGuid>1bff2b17-9710-46ea-a134-0484006b8f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda harus memasukkan tanggal lahir'])[1]/preceding::select[2]</value>
+      <webElementGuid>b5e6b775-5bdd-4727-8653-3580d117dc04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/preceding::select[2]</value>
+      <webElementGuid>d09bfe06-d71e-4f81-a9a9-e79c0c6a3456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/select</value>
+      <webElementGuid>da478be8-d923-405a-b47e-dd5b3683899c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@title = 'Hari:' and (text() = '12345678910111213141516171819202122232425262728293031' or . = '12345678910111213141516171819202122232425262728293031')]</value>
+      <webElementGuid>e7ec099f-c690-41af-8300-dccb7e79e28d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

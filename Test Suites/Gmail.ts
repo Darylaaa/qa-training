@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Gmail</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>17d57b12-9db1-49a2-ac30-284b6e580479</testSuiteGuid>
+   <testCaseLink>
+      <guid>a1408dcb-01fa-4508-b229-c1bf255ee0f3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tugas/Create Gmail</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>22b75f22-c7c1-4924-964c-51025c56a8ab</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Gmail</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>22b75f22-c7c1-4924-964c-51025c56a8ab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>firstname</value>
+         <variableId>e86294e2-b091-4422-8be5-eb3a8855fdc6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>22b75f22-c7c1-4924-964c-51025c56a8ab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>lastname</value>
+         <variableId>1e2269e6-e5c1-4339-b805-beb0e1b8f9c5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>22b75f22-c7c1-4924-964c-51025c56a8ab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>b6d6480e-10a9-44ba-8ba7-9c8f507215c0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>22b75f22-c7c1-4924-964c-51025c56a8ab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>567bb785-62a3-4dca-9c16-d6fa02fc42b1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>22b75f22-c7c1-4924-964c-51025c56a8ab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nomer</value>
+         <variableId>0a01a652-7b97-4e0c-8f38-c5748f29b9b4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3300f826-9a5b-4153-96a1-27b00b552b91</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

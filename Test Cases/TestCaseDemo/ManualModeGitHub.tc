@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManualModeGitHub</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afa80e91-aef2-4a96-98e1-16bea7e1a3dc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f871ccfb-7ac6-40ec-ac22-54d33bb091d0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4eee2f0e-ceb3-4da2-a6e6-1f2042b72d40</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>873571c3-c60a-4d76-9a44-bef925a7dce1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'daryladriantoo@gmail.com'</defaultValue>
+      <description></description>
+      <id>f871ccfb-7ac6-40ec-ac22-54d33bb091d0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'RmmOQXUAVA7eMylY5IoiCQ=='</defaultValue>
+      <description></description>
+      <id>4eee2f0e-ceb3-4da2-a6e6-1f2042b72d40</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://github.com/'</defaultValue>
+      <description></description>
+      <id>873571c3-c60a-4d76-9a44-bef925a7dce1</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Twitter</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>76faf471-577f-48f7-a2d1-7a3f2f05b95a</testSuiteGuid>
+   <testCaseLink>
+      <guid>ac6f0c5e-a867-477b-a720-da8228a57db0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tugas/Register Twitter</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a8ba725b-81d1-4582-b43f-837ca17c045d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Twitter</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a8ba725b-81d1-4582-b43f-837ca17c045d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>b239213f-53a8-40be-aeac-73805dcfca10</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a8ba725b-81d1-4582-b43f-837ca17c045d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>529e4ec5-1a3a-4b15-ae8b-ff6cf1bd2e8d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a8ba725b-81d1-4582-b43f-837ca17c045d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>month</value>
+         <variableId>9cc4bae3-19e1-41d0-9c50-b0c0cf9304bc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a8ba725b-81d1-4582-b43f-837ca17c045d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>days</value>
+         <variableId>63aeb299-2462-431b-8bcb-7bb7555b6222</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a8ba725b-81d1-4582-b43f-837ca17c045d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>years</value>
+         <variableId>3aa76f39-1ce6-4d2c-ab43-d961461d1f9f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>82fe6c5f-a430-48b3-8f9f-643d25b56e6b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

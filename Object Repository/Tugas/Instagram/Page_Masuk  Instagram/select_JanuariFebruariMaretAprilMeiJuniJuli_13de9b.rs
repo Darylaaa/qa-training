@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_JanuariFebruariMaretAprilMeiJuniJuli_13de9b</name>
+   <tag></tag>
+   <elementGuidId>cab2de5d-ebdb-479e-9419-0db076078245</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-root']/section/main/div/div/div/div/div[4]/div/div/span/span/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b286e5cc-3866-42d3-8438-2121aa957047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h144Z  </value>
+      <webElementGuid>795144c8-f47e-49a2-ba88-23078bf1a120</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Bulan:</value>
+      <webElementGuid>4284ffa8-7574-49ae-8791-47a3facb73b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JanuariFebruariMaretAprilMeiJuniJuliAgustusSeptemberOktoberNovemberDesember</value>
+      <webElementGuid>f763ac22-4b82-4ae2-b62f-b066376d70ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-root&quot;)/section[@class=&quot;_9eogI E3X2T&quot;]/main[@class=&quot;wG4fl  UDpcu&quot;]/div[@class=&quot;qF0y9          Igw0E   rBNOH          YBx95   ybXk5    vwCYk              MGky5                                                              i0EQd&quot;]/div[@class=&quot;rgFsT&quot;]/div[@class=&quot;gr27e&quot;]/div[@class=&quot;qF0y9          Igw0E   rBNOH        eGOV_       acqo5   _4EzTm                                                                                      yV-Ex       HVWg4&quot;]/div[@class=&quot;qF0y9          Igw0E     IwRSH      eGOV_       acqo5   _4EzTm    bkEs3                                                      DhRcB&quot;]/div[1]/div[@class=&quot;qF0y9          Igw0E   rBNOH        eGOV_       acqo5   _4EzTm&quot;]/span[1]/span[@class=&quot;O15Fw&quot;]/select[@class=&quot;h144Z&quot;]</value>
+      <webElementGuid>acff6051-c695-485d-ad98-16a509e23b4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-root']/section/main/div/div/div/div/div[4]/div/div/span/span/select</value>
+      <webElementGuid>ea9413c0-86e4-4ece-a7ed-51e370347907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengapa saya harus memberikan tanggal lahir?'])[1]/following::select[1]</value>
+      <webElementGuid>8aee7572-99e6-40c8-93c1-d38d66ebe5e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ini tidak akan menjadi bagian profil publik Anda.'])[1]/following::select[1]</value>
+      <webElementGuid>bfb39486-6eb0-43f5-a9d9-e83b091237df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda harus memasukkan tanggal lahir'])[1]/preceding::select[3]</value>
+      <webElementGuid>7b026a0d-ac3f-440b-8f7e-6b351373aa63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/preceding::select[3]</value>
+      <webElementGuid>f6781a4d-4b59-4dd8-80c2-1f36a2551864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>14ebbe1d-2d41-46fe-87e2-72088f3e59ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@title = 'Bulan:' and (text() = 'JanuariFebruariMaretAprilMeiJuniJuliAgustusSeptemberOktoberNovemberDesember' or . = 'JanuariFebruariMaretAprilMeiJuniJuliAgustusSeptemberOktoberNovemberDesember')]</value>
+      <webElementGuid>4ba3dcf5-e17a-4f2d-8833-1c40d572a80c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Accounts_css-1dbjc4n r-172uzmj r-1pi2ts_155bc8</name>
+   <tag></tag>
+   <elementGuidId>33b097bb-d536-4f9d-ac44-3bdcf49ac0a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-172uzmj.r-1pi2tsx.r-1ny4l3l.r-13qz1uu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-root']/div/div/div[2]/header/div/div/div/div[2]/div/div/div/div/div[2]/div/div[2]/div/div/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8939b066-bf4c-42e3-bc56-3d4a2b9ec17c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-172uzmj r-1pi2tsx r-1ny4l3l r-13qz1uu</value>
+      <webElementGuid>0e8ae0e3-b0de-4af1-8bea-f6f8aeb83f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-13qz1uu r-417010&quot;]/header[@class=&quot;css-1dbjc4n r-obd0qt r-16y2uox r-lrvibr r-1g40b8q&quot;]/div[@class=&quot;css-1dbjc4n r-f9dfq4&quot;]/div[@class=&quot;css-1dbjc4n r-aqfbo4 r-1pi2tsx r-1xcajam r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1pi2tsx r-1wtj0ep r-1rnoaur r-1e081e0 r-f9dfq4&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-usiww2&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-1awozwy r-1hdo0pc r-sdzlij r-6koalj r-18u37iz r-1ny4l3l r-xyw6el r-o7ynqc r-6416eg&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1adg3ll r-eu3ka r-bztko3&quot;]/div[@class=&quot;r-1p0dtai r-1pi2tsx r-1d2f490 r-u8s1d r-ipm5af r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1adg3ll r-1pi2tsx r-1wyvozj r-bztko3 r-u8s1d r-1v2oles r-desppf r-13qz1uu&quot;]/div[@class=&quot;r-1p0dtai r-1pi2tsx r-1d2f490 r-u8s1d r-ipm5af r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-sdzlij r-ggadg3 r-1udh08x r-u8s1d r-8jfcpp&quot;]/div[@class=&quot;css-1dbjc4n r-1niwhzg r-1pi2tsx r-1ny4l3l r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-sdzlij r-1wyvozj r-1udh08x r-u8s1d r-1v2oles r-desppf&quot;]/div[@class=&quot;css-1dbjc4n r-172uzmj r-1pi2tsx r-1ny4l3l r-13qz1uu&quot;]</value>
+      <webElementGuid>c5f89141-f5b5-4f80-b8ba-771f22a03721</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-root']/div/div/div[2]/header/div/div/div/div[2]/div/div/div/div/div[2]/div/div[2]/div/div/div[4]/div</value>
+      <webElementGuid>8eae5e6d-35c9-4f62-8532-f579f8ce30fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>e5b9b436-13ba-4415-845b-199714ffbc10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

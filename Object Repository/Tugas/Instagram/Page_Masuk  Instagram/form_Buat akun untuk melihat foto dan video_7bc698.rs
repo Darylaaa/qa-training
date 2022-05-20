@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Buat akun untuk melihat foto dan video_7bc698</name>
+   <tag></tag>
+   <elementGuidId>1c8490a8-57a3-4fb6-b27c-7808b24669c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-root']/section/main/div/div/div/div[2]/form</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.XFYOY</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>07728fd5-3fcf-4a49-97a7-bb37428f01cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>XFYOY</value>
+      <webElementGuid>853616b5-2441-4c40-bc9f-1eb0b9f66893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>method</name>
+      <type>Main</type>
+      <value>post</value>
+      <webElementGuid>28d1cb8f-2c21-48df-83e3-77d7d8f7385e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buat akun untuk melihat foto dan video dari teman Anda.Masuk dengan FacebookatauNomor Ponsel atau EmailNama LengkapNama penggunaMuat ulang saranKata SandiDaftarDengan mendaftar, Anda menyetujui Ketentuan, Kebijakan Data, dan Kebijakan Cookie kami.</value>
+      <webElementGuid>a108ce22-463b-46f9-9971-5114f67989f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-root&quot;)/section[@class=&quot;_9eogI E3X2T&quot;]/main[@class=&quot;wG4fl  UDpcu&quot;]/div[@class=&quot;qF0y9          Igw0E   rBNOH          YBx95   ybXk5    vwCYk              MGky5                                                              i0EQd&quot;]/div[@class=&quot;rgFsT&quot;]/div[@class=&quot;gr27e&quot;]/div[@class=&quot;P8adC&quot;]/form[@class=&quot;XFYOY&quot;]</value>
+      <webElementGuid>a1ea7e30-a2e2-4e33-bdf0-2b705dcc34d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-root']/section/main/div/div/div/div[2]/form</value>
+      <webElementGuid>dfd663ae-0dd4-4a73-ba6e-e450bdaf2501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>1f10a27f-1004-4825-8a2a-a064549dba88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Buat akun untuk melihat foto dan video dari teman Anda.Masuk dengan FacebookatauNomor Ponsel atau EmailNama LengkapNama penggunaMuat ulang saranKata SandiDaftarDengan mendaftar, Anda menyetujui Ketentuan, Kebijakan Data, dan Kebijakan Cookie kami.' or . = 'Buat akun untuk melihat foto dan video dari teman Anda.Masuk dengan FacebookatauNomor Ponsel atau EmailNama LengkapNama penggunaMuat ulang saranKata SandiDaftarDengan mendaftar, Anda menyetujui Ketentuan, Kebijakan Data, dan Kebijakan Cookie kami.')]</value>
+      <webElementGuid>32859660-b622-4ab2-a672-4d0a758c7c2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_202220212020201920182017201620152014_d959b4</name>
+   <tag></tag>
+   <elementGuidId>76fcd854-3c07-4dcd-8ea7-0a7d5621c42e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-root']/section/main/div/div/div/div/div[4]/div/div/span/span[3]/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ae5647c0-aeb1-4edd-8590-cb507dc472d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h144Z  </value>
+      <webElementGuid>85eb1a99-9d4e-45ad-a5ea-5f37f209eff1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Tahun:</value>
+      <webElementGuid>ad1ceb23-8bbb-432b-a727-ff026a6cfb66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>20222021202020192018201720162015201420132012201120102009200820072006200520042003200220012000199919981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925192419231922192119201919</value>
+      <webElementGuid>dced17ba-597a-4830-be17-8ed6674cce69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-root&quot;)/section[@class=&quot;_9eogI E3X2T&quot;]/main[@class=&quot;wG4fl  UDpcu&quot;]/div[@class=&quot;qF0y9          Igw0E   rBNOH          YBx95   ybXk5    vwCYk              MGky5                                                              i0EQd&quot;]/div[@class=&quot;rgFsT&quot;]/div[@class=&quot;gr27e&quot;]/div[@class=&quot;qF0y9          Igw0E   rBNOH        eGOV_       acqo5   _4EzTm                                                                                      yV-Ex       HVWg4&quot;]/div[@class=&quot;qF0y9          Igw0E     IwRSH      eGOV_       acqo5   _4EzTm    bkEs3                                                      DhRcB&quot;]/div[1]/div[@class=&quot;qF0y9          Igw0E   rBNOH        eGOV_       acqo5   _4EzTm&quot;]/span[1]/span[@class=&quot;O15Fw&quot;]/select[@class=&quot;h144Z&quot;]</value>
+      <webElementGuid>01261a39-3b22-4c4b-a0c0-3a1e8b8385b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-root']/section/main/div/div/div/div/div[4]/div/div/span/span[3]/select</value>
+      <webElementGuid>016ee5bf-c143-4188-bc8e-df043c86c8ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengapa saya harus memberikan tanggal lahir?'])[1]/following::select[3]</value>
+      <webElementGuid>08aa5aaf-8fbe-43af-8679-a89b51c5eae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ini tidak akan menjadi bagian profil publik Anda.'])[1]/following::select[3]</value>
+      <webElementGuid>23b13d10-79c5-40ae-ad8e-84479286aeb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda harus memasukkan tanggal lahir'])[1]/preceding::select[1]</value>
+      <webElementGuid>bec85033-acab-408c-8f39-7cbe8102fb94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[1]/preceding::select[1]</value>
+      <webElementGuid>454e0b63-22d8-4986-a6c3-ad2967a5c7c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/select</value>
+      <webElementGuid>e4fba184-214f-4380-ba17-ecf73da5e349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@title = 'Tahun:' and (text() = '20222021202020192018201720162015201420132012201120102009200820072006200520042003200220012000199919981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925192419231922192119201919' or . = '20222021202020192018201720162015201420132012201120102009200820072006200520042003200220012000199919981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925192419231922192119201919')]</value>
+      <webElementGuid>c345da39-99e3-465e-803b-ff6472ee5312</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

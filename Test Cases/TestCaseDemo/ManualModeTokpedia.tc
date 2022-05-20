@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManualModeTokpedia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87e2cf82-7147-4b25-86fe-4f9b98f21e6f</testCaseGuid>
+   <variable>
+      <defaultValue>'www.tokopedia.com'</defaultValue>
+      <description></description>
+      <id>8d0bcb99-6e8e-4979-b99b-62a8b95329b8</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'laptop asus'</defaultValue>
+      <description></description>
+      <id>87a7d8d9-ec1f-4a72-84a4-d9c0fecada2b</id>
+      <masked>false</masked>
+      <name>result</name>
+   </variable>
+</TestCaseEntity>
